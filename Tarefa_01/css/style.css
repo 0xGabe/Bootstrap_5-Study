@@ -1,0 +1,11 @@
+#impar {
+    background-color: blue;
+}
+
+#par {
+    background-color: red;
+}
+
+.col {
+    border-style: solid;
+}
