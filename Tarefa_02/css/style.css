@@ -1,0 +1,15 @@
+.col{
+    text-align: center;
+}
+
+.bi.bi-bug-fill{
+    color: blue;
+}
+
+.bi.bi-terminal{
+    color: green;
+}
+
+.bi.bi-cloud-download{
+    color: pink;
+}
